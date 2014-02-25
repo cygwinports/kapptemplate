@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kapptemplate"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="KDE developer templates"
+DESCRIPTION="Part of the KDE developer tools suite"
